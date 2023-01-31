@@ -1,3 +1,5 @@
+nvm manage, node 16.16.0
+
 > 最新的Angular 10出来咯，点击试看 >>> [Angular完全解读](https://www.bilibili.com/video/BV1zy4y1k7Dw)
 
 # NgWyy
